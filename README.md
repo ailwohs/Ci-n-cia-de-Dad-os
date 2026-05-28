@@ -60,4 +60,49 @@
 ## IMPLEMENTAÇÃO DE PROJETOS DE CIÊNCIA DE DADOS 
 
 --> Um projeto em ciência de dados envolve a aplicação de métodos estatísticos, algoritmos de aprendizado de máquina e técnicas analíticas para resolver problemas complexos e extrair insights valiosos dos dados.
+    --> Podemos usar diferentes técnicas, ferramentas e estratégias, mas o processo é essencialmente o mesmo.
+    --> Nem todas as etapas estarão presentes em um projeto de Ciência de Dados.
 
+
+# 7 ETAPAS PRINCIPAIS PARA IMPLEMENTAR UM PROJETO DE CIÊNCIA DE DADOS
+
+1. Definição do Pronlema
+2. Coleta e Armazenamento de Dados
+3. Proparação e Limpeza dos Dados
+4. Análise Exploratória dos Dados
+5. Modelagem Preditiva/Estatística
+6. Avaliação e Teste
+7. Entrega do Resultado
+------------------------------------ 
+
+# TUDO COMEÇA COM A DEFINIÇAÕ DO PROBLEMA 
+° Entendimento do Objetivo de Negócio
+° Definição dos Objetivos do Projeto
+° Identificação das Perguntas de Pesquisa 
+° Análise dos Dados Disponíveis 
+° Definição das Métricas de Sucesso 
+° Planejamento do Projeto 
+
+# COLETA E ARMAZENAMENTO DE DADOS
+
+--> Dados precisos e relevantes são a base para análises e insights valiosos. Envolver as partes interessadas para definir os requisistos de dados é vital para o projeto.
+ 
+--> Existem diversos métodos de coleta de dados, como pesquisas, entrevistas, observações, sensores, registros de transações e fontes externas (APIs, bancos de dados públicos). A escolha do método depende do tipo de dado necessário e do contexto do projeto.
+
+--> Garantir a qualidade dos dados é fundamental. Dados incompletos, incorretos ou desatualizados podem levar a conclusões errôneas. Técnicas de limpeza e validação de dados ajudam a manter a integridade e precisão dos dados coletados.
+
+--> O armazenamento de dados deve ser eficiente e seguro. Bancos de dados relacionais, bancos de dados NoSQL, Data Lakes, Data Lakehouses e Data Warehouses são algumas das opções disponíveis.
+
+--> Proteger os dados coletados e fundamental para manter a confiança e cumprir regulamentações. Implementar medidas de segurança, como criptografia, controle de acesso e políticas de privacidade, ajuda a proteger os dados contra acessos não autorizados e violações.
+
+--> Coleta e armazenamento de dados são normalmente responsabilidade do Engenheiro de Dados.
+
+## PREPARAÇÃO E LIMPEZA DE DADOS
+
+--> A preparação de dados em Ciência de Dados é o processo de transformar dados brutos em um formato adequado para análise e modelagem.
+# ENVOLVE AS ETAPAS DE:
+1. LIMPEZA
+2. TRANSFORMAÇÃO
+3. INTEGRAÇÃO/COMBINAÇÃO
+4. CODIFICAÇÃO
+5. REDUÇÃO 
