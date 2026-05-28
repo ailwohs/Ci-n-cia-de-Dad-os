@@ -149,3 +149,37 @@ Em resumo, dado é a matéria-prima, informação é dado estruturado e conhecim
     Na Modelagem Preditiva estamos interessados em usar as variáveis para fazer previsões.
 
     Podemos usar Modelagem Estatística como técnica de seleção de variáveis em Modelagem Preditiva.
+
+    Todo projeto de Machine Learning e Inteligência Artificial é um projeto de Ciência de Dados
+
+    Mas nem todo projeto de Ciência de Dados precisa empregar de Machine Learning e Inteligência Artifical.
+
+    Tudo Depende do Problema a Ser Resolvido!!!!!
+
+
+# PRINCIPAIS DIFERENÇAS - OBJETIVO 
+#####       MODELAGEM ESTATÍSTICA:
+> PROPÓSITO: Entender relações entre variáveis, identificar padrões e fazer inferências sobre a população baseadas em amostras. 
+> FOCO: Estabelecer relações causais ou associativas, testar hipóteses e construir modelos explicativos.
+
+####        MODELAGEM PREDITIVA:
+> PROPÓSITO: Prever valores futuros ou resultados baseados em dados históricos.
+> FOCO: Otimizar a precisão das previsões, muitas vezes sem se preocupar com a interpretabilidade do modelo.
+------------------------------------
+# PRINCIPAIS DIFERENÇAS - ABORDAGEM 
+#####       MODELAGEM ESTATÍSTICA:
+> MÉTODOS: Usa técnicas como Regressão Linear, ANOVA, Testes de Hipóteses, entre outros.
+> SUPOSIÇÕES: Geralmente assume que os dados seguem certas destribuições (por exemplo, normalidade) e que há relações lineares entre variáveis.
+
+####        MODELAGEM PREDITIVA:
+> MÉTODOS: Inclui uma ampla gama de técnicas, como aprendizado de máquina supervisionado (Árvores de Decisão, Redes Neurais, SVM), não supervisionado (clusterização), entre outros. 
+> SUPOSIÇÕES: Cada algoritmo pode ter as suas próprias suposições que devem ser validadas. Foco mais na performace preditiva. 
+--------------------------------------
+# PRINCIPAIS DIFERENÇAS - ESTATÍSTICA
+#####       MODELAGEM ESTATÍSTICA:
+> INTERPRETAÇÃO: Resultados são interpretáveis e podem ser usados para inferir relações casuais.
+> SAÍDA: Coeficientes com significados claros, intervalos de confiança, valores p
+
+####        MODELAGEM PREDITIVA:
+> INTERPRETAÇÃO: Pode ser mais difícil de interpretar, especialmente com modelos complexos como redes neurais
+> SAÍDA: Foco na precisão das previsões, medidas de performance como AUC, precisão, recall, etc. 
