@@ -106,3 +106,15 @@
 3. INTEGRAÇÃO/COMBINAÇÃO
 4. CODIFICAÇÃO
 5. REDUÇÃO 
+
+               
+```
+Dado é um elemento bruto, que não tem significado em si mesmo. É uma representação simbólica (números, palavras, imagens, etc.) de um evento ou situação sem interpretação ou contexto. Exemplo "23", "azul", "2026-06-12".
+
+A informação é o dado processado e organizado de maneira que tenha significado. Ela proporciona contexto, relevância e propósito, transformando dados em algo compreensível e útil. Exemplo: "23 anos", "cor favorita azul", "data de uma revolução em IA".
+
+O conhecimento é a aplicação e interpretação da informação combinada com a experiência e sabedoria. É a compreensão profunda que permite a tomada de decisões e ações baseadas na informação. Exemplo: Saber que "23 anos é a idade média dos alunos de um curso específico", ou "A cor azul é preferida por uma maioria dos clientes, o que pode influenciar o design de produtos".
+
+Em resumo, dado é a matéria-prima, informação é dado estruturado e conhecimento é a interpretação e aplicação da informação para gerar valor e tomar decisões.
+
+```bash
