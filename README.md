@@ -116,5 +116,36 @@ A informação é o dado processado e organizado de maneira que tenha significad
 O conhecimento é a aplicação e interpretação da informação combinada com a experiência e sabedoria. É a compreensão profunda que permite a tomada de decisões e ações baseadas na informação. Exemplo: Saber que "23 anos é a idade média dos alunos de um curso específico", ou "A cor azul é preferida por uma maioria dos clientes, o que pode influenciar o design de produtos".
 
 Em resumo, dado é a matéria-prima, informação é dado estruturado e conhecimento é a interpretação e aplicação da informação para gerar valor e tomar decisões.
+```
 
-```bash
+## PREPARAÇÃO E LIMPEZA DE DADOS 
+
+> A limpeza de dados é essencial na preparação. Envolve a remoção de valores nulos, duplicados e inconsistentes.
+> A normalização e a padronização dos dados também são necessárias para garantir a consistência.
+> A integração de dados combina dados de diferentes fontes para fornecer uma visão unificada.
+> Técnicas de ETL (Extração, Transformação e Carga) são frequentemente usadas para consolidar dados de sistemas diversos em um repositório central.
+> Codificação é o processo de transformar variáveis do tipo texto em representação númerica. 
+> Modificamos os dados sem modificar a informação
+> Por exemplo: Variável indicando se um cliente vai ou não fazer uma compra com valores Sim/Não. Codificamos para valores 1/0 a fim de treinar um modelo de ML.
+> A redução de dimensionalidade simplifica conjuntos de dados grandes e complexos, mantendo as informações mais relevantes.
+> Métodos como seleção de características e PCA (Análise de Componentes Principais) ajudam a reduzir a complexidade e melhorar a eficiência da análise.
+--------------------------------------
+# ANÁLISE EXPLORATÓRIA DOS DADOS 
+
+> A exploração e visualização de dados, também conhecida como Análise Exploratória de Dados (EDA), é uma etapa crítica no fluxo de trabalho da Ciência de Dados.
+> EDA envolve a análise inicial dos dados para entender suas principais características, padrôes e anomalias.
+> Esse processo utiliza técnicas estatísticas descritivas e ferramentas de visualização para resumir as distribuições dos dados, identificar relações entre variáveis e detectar valores discrepantes (outliers).
+> A EDA ajuda os Analistas de Dados e Cientistas de Dados a formular hipóteses, escolher métodos de processamento apropriados e prevenir erros que possam surgir devido a problemas nos dados. 
+> A visualização de dados ajuda na análise preliminar e na comunicação dos isights.
+> Representações visuais clares e informativas facilitam a interpretação dos resultados por stakeholders não técnicos, como gerente e executivos.
+> Podemos aplicar EDA antes ou depois da preparação dos dados. O objetivo é explorar os dados para compreender seus padrões e detectar eventuais problemas. Também podemos aplicar Engenharia de Atributos durante ou logo após a EDA.
+
+## MODELAGEM PREDITIVA / ESTATÍSTICA 
+
+    Modelagem Preditiva e Modelagem Estatística são duas abordagens amplamente usadas em Ciência de Dados, mas possuem diferentes objetivos e metodologias 
+
+    Na modelagem Estatística estamos interessados em analisar e explicar a relação entre as variáveis.
+
+    Na Modelagem Preditiva estamos interessados em usar as variáveis para fazer previsões.
+
+    Podemos usar Modelagem Estatística como técnica de seleção de variáveis em Modelagem Preditiva.
