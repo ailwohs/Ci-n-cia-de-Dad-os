@@ -39,3 +39,25 @@
 
   
   #### SEMPRE JUSTIFICAS AS AÇÕES
+
+  --> Proteção de dados pessoais
+    --> Dados pessoais devem ser protegidos contra acesso não autorizado, vazamentos e outros riscos a segurança
+    --> métodos de anonimização e pseudominação podem ser utilizados para proteger a identidade do índividuo 
+
+## CONFORMIDADE COM REGULAMENTAÇÃO
+--> Cientistas de dados devem estar cientes e cumprir as regulamentações de privacidade aplicavéis como regulamentações de privacidade aplicáveis como o Regulamento geral de proteção e dados GDPR na Europa e a Lei geral de proteção de Dados LGPD no Brasil.
+
+    --> Essas leis estabelecem diretrizes claras sobre coletas, processamento, armazenamento e compartilhamento de dados pessoas.
+
+## MINIMIZAÇÃO DE DADOS
+--> Apenas os dados necessários para uma ánalise específica devem ser coletados e armazenados 
+--> A coleta de dados execessivos deve ser evitado para reduzir riscos à privacidade.
+
+## DIREITO DOS TITULARES DOS DADOS
+--> Os indiviúos têm o dierito de acessar, corrigir e excluir seus dados pessoas.
+--> Devem ser fornecidos meios fáceis para que os individúos exerçam esses direitos.
+
+## IMPLEMENTAÇÃO DE PROJETOS DE CIÊNCIA DE DADOS 
+
+--> Um projeto em ciência de dados envolve a aplicação de métodos estatísticos, algoritmos de aprendizado de máquina e técnicas analíticas para resolver problemas complexos e extrair insights valiosos dos dados.
+
